@@ -12,6 +12,7 @@
       "id": 2,
       "name": "Louis Vuitton Bag",
       "price": 3500,
+      "quantity": 1,
       "status": "pending",
       "image": "https://cdn.pixabay.com/photo/2015/11/20/03/53/package-1052370_1280.jpg"
     },
@@ -19,6 +20,7 @@
       "id": 3,
       "name": "Tesla Model S",
       "price": 79999,
+      "quantity": 3,
       "status": "pending",
       "image": "https://cdn.pixabay.com/photo/2019/07/13/22/03/its-4335837_1280.jpg"
     },
@@ -26,6 +28,7 @@
       "id": 4,
       "name": "MacBook Pro",
       "price": 2500,
+      "quantity": 10,
       "status": "pending",
       "image": "https://cdn.pixabay.com/photo/2016/11/21/16/27/laptop-1846277_1280.jpg"
     }
