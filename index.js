@@ -1,12 +1,15 @@
 // shopping-backend/index.js
 const express = require('express');
+const cors = require("cors");
 const app = express();
+
 const port = 3000;
 
 const { initDB } = require('./db');
 const itemsRouter = require('./items');
 
 app.use(express.json());
+app.use(cors());
 
 initDB();
 
